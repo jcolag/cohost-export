@@ -1,14 +1,10 @@
-# SPDX-FileCopyrightText: 2024 John Colagioia
-#
-# SPDX-License-Identifier: GPL-3.0-or-later
-
 GEM
   remote: https://rubygems.org/
   specs:
     json (2.7.2)
     kramdown (2.4.0)
       rexml
-    rexml (3.3.8)
+    rexml (3.3.9)
 
 PLATFORMS
   x86_64-linux
