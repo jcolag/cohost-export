@@ -4,7 +4,7 @@ GEM
     json (2.7.2)
     kramdown (2.4.0)
       rexml
-    rexml (3.3.9)
+    rexml (3.4.2)
 
 PLATFORMS
   x86_64-linux
